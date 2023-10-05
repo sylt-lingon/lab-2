@@ -30,7 +30,7 @@
 **Узоры**
 
 <p align="center">
-  <img src="https://github.com/ITMOPython-2022/Lab-2/blob/main/lab2patterns.png" width="480" title="Patterns">
+  <img src="https://github.com/ITMOPython-2023/lab2/blob/main/lab2patterns.png" width="480" title="Patterns">
 </p>
 
 **Ссылки**
